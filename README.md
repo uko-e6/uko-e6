@@ -2,7 +2,6 @@
 
 Welcome to my page! I'm **PRO-E6**, a code-addicted student.
 
-
 ### Projects ✨
 
 + 
