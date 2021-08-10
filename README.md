@@ -30,4 +30,4 @@ Welcome to my page! I'm **PRO-E6**, a code-addicted student.
 
 ---
 
-[PRO-E6](https://pro-e6.dev) &copy; 2018-2021
+[PRO-E6](https://pro-e6.dev) &copy; 2020-2021
