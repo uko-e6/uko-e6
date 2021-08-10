@@ -1,4 +1,4 @@
-# Hey there 👋</h1>
+## Hey there 👋</h1>
 
 Welcome to my page! I'm **PRO-E6**, a code-addicted student.
 
