@@ -23,4 +23,6 @@ Welcome to my page! I'm PRO-E6, a code-addicted student.
 
 I'm available on Discord [`PR0#4818`]
 
+---
+
 [PRO-E6](https://pro-e6.dev) &copy; 2018-2021
