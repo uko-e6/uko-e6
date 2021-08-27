@@ -1,4 +1,4 @@
-## Hey there 👋
+## Hey there
 
 Welcome to my page! I'm **PRO-E6**, a code-addicted student.
 
@@ -13,11 +13,11 @@ Welcome to my page! I'm **PRO-E6**, a code-addicted student.
   <div> <img src="https://discord.c99.nl/widget/theme-3/697828773126602802.png"> </div>
 <br>
 
-### Projects ✨
+### Projects
 
 + 
 
-### Languages and Tools 🖱️
+### Languages and Tools
 
 + **_Languages_**
 
@@ -32,11 +32,15 @@ Welcome to my page! I'm **PRO-E6**, a code-addicted student.
   + Firebase
   + Photoshop
 
-### Contact me 🤝
+### Contact me
 
 <a href="https://discord.com/users/697828773126602802">
   <img align="center" alt="Discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />
 </a>
+
+### Github Corner
+
+<img src="https://github.com/PRO-E6/PRO-E6/blob/main/github-metrics.svg" alt="Metrics" width="100%">
 
 -----
 
