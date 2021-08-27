@@ -2,6 +2,13 @@
 
 Welcome to my page! I'm **PRO-E6**, a code-addicted student.
 
+<details>
+<summary>What I'm listening.</summary>
+<br>
+<img src="https://spotify-github-profile.vercel.app/api/view?uid=315jgfe3ib33dgmrzs5rqdkwtyvu&cover_image=true&theme=compact">
+<br>
+</details>
+
 <br>
 
 <div> <img src="https://discord.c99.nl/widget/theme-1/697828773126602802.png"> </div>
