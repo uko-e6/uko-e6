@@ -9,9 +9,7 @@
 <details>
   <summary>What I'm listening.</summary>
     <br>
-  
       <img src="https://spotify-github-profile.vercel.app/api/view?uid=315jgfe3ib33dgmrzs5rqdkwtyvu&cover_image=true&theme=compact">
-  
     <br>
 </details>
 
