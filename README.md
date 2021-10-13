@@ -2,7 +2,7 @@
 
 <br>
 
-  Welcome to my page! I'm **PRO-E6**, a code-addicted student.
+  Welcome to my page! I'm **Uko**, a code-addicted student.
   
 <br>
 
@@ -78,4 +78,4 @@
 
 -----
 
-[PRO-E6](https://pro-e6.github.io) &copy; 2020-2021
+[Uko-e6](https://uko-e6.github.io) &copy; 2020-2021
