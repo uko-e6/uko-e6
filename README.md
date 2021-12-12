@@ -2,12 +2,12 @@
 
 <br>
 
-  Welcome to my page! I'm **Uko**, a code-addicted student.
+  welcome to my page! I'm Uko, a code-addicted student.
   
 <br>
 
 <details>
-  <summary>What I'm listening.</summary>
+  <summary>what I'm listening.</summary>
     <br>
       <img src="https://spotify-github-profile.vercel.app/api/view?uid=315jgfe3ib33dgmrzs5rqdkwtyvu&cover_image=true&theme=default">
     <br>
@@ -49,31 +49,27 @@
 ### Contact me
 
 <br>
-
   <a href="https://discord.com/users/697828773126602802">
     <div align="center"> <img alt="Discord" height="32" width="32" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg"> </div>     
   </a>
-
 <br>
 
 ### Github Stats
 
 <br>
-
   <table width="100%" align="center">
     </tr>
-        <td> <img src="https://github-readme-stats.vercel.app/api?username=PRO-E6&show_icons=true&hide_border=true&theme=tokyonight"> </td>
-        <td> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PRO-E6&theme=tokyonight&hide_border=true&hide=batchfile"> </td>
+        <td> <img src="https://github-readme-stats.vercel.app/api?username=uko-e6&show_icons=true&hide_border=true&theme=tokyonight"> </td>
+        <td> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=uko-e6&theme=tokyonight&hide_border=true&hide=batchfile"> </td>
     </tr>
   </table>
-
 <br>
 
 ### Github Corner
 
 <br>
 
-  <div align="center"> <img src="https://github.com/PRO-E6/PRO-E6/blob/main/github-metrics.svg" alt="Metrics" width="100%"> </div>
+  <div align="center"> <img src="https://github.com/uko-e6/uko-e6/blob/main/github-metrics.svg" alt="Metrics" width="100%"> </div>
 
 
 -----
