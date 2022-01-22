@@ -1,69 +1,37 @@
-## Hey there 👋
+<p align='center'>
+  <b>Hey 👋, I'm Uko</b><br>
+  <a href="">Discord</a> |
+  <a href="">YouTube</a> |
+  <a href="">Twitter</a> |
+  <a href="">Code Pen</a>
+</p>
 
-<br>
-
-  welcome to my page! I'm Uko, a code-addicted student.
-  
-<br>
-
-<details>
-  <summary>what I'm listening.</summary>
-    <br>
-      <img src="https://spotify-github-profile.vercel.app/api/view?uid=315jgfe3ib33dgmrzs5rqdkwtyvu&cover_image=true&theme=default">
-    <br>
-</details>
-
-<br>
-
-  <div> <img src="https://discord.c99.nl/widget/theme-3/697828773126602802.png"> </div>
-  
-<br>
-
-### Projects
-
-<br>
-
-  +
-  
-<br>
-
-### Languages and Tools
-
-<br>
-
-  + **_Languages_:**
-
-    + JavaScript
-    + TypeScript
-    + Python
-
-  + **_Tools_:**
-
-    + Visual Studio Code
-    + MongoDB
-    + Firebase
-    + Photoshop
-
-<br>
-
-### Contact me
-
-<br>
-  <a href="https://discord.com/users/697828773126602802">
-    <div align="center"> <img alt="Discord" height="32" width="32" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg"> </div>     
+<p align="center"><br>
+  <a href="https://github.com/KanekiWeb">
+    <img src="https://lanyard-profile-readme.vercel.app/api/697828773126602802"/>
   </a>
-<br>
+</p>
 
-### Github Stats
-
-<br>
-  <table width="100%" align="center">
-    </tr>
-        <td> <img src="https://github-readme-stats.vercel.app/api?username=uko-e6&show_icons=true&hide_border=true&theme=tokyonight"> </td>
-        <td> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=uko-e6&theme=tokyonight&hide_border=true&hide=batchfile"> </td>
-    </tr>
-  </table>
-<br>
+<br><br>
+<p align="center">
+	<b>Languages & Frameworks</b>
+	<br>
+	<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>&nbsp;|
+	<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png"></code>&nbsp;|
+	<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png"></code>&nbsp;|
+	<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>&nbsp;|
+	<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>&nbsp;|
+	<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>&nbsp;|
+	<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png"></code>&nbsp;|
+	<code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>&nbsp;
+	<br><br>
+	<b>My Github Stats</b><br>
+    	<img src="https://github-readme-streak-stats.herokuapp.com/?user=uko-e6&theme=dark&hide_border=true">
+	<br>
+	<img src="https://github-readme-stats.vercel.app/api?username=uko-e6&include_all_commits=true&show_icons=true&hide_border=true&hide_title=true&count_private=true&theme=dark">
+	<br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=uko-e6&theme=tokyonight&hide_border=true&hide=batchfile">
+</p>
 
 ### Github Corner
 
@@ -74,4 +42,4 @@
 
 -----
 
-[Uko-e6](https://uko-e6.github.io) &copy; 2020-2021
+[uko-e6](https://uko-e6.github.io) &copy; 2020-2021
